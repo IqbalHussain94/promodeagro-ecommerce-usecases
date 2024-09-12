@@ -26,6 +26,7 @@
 | 8. Promotion and Discounts | [Promotion and Discounts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Promotions%20and%20Discounts.md) |Promotions and Discounts Test Case| www.google.com |
 | 9. Mobile Responsiveness | [Mobile Responsiveness](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Mobile%20Responsive.md) |Mobile Responsiveness Test Case| www.google.com |
 | 10. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
+| 11. Notifications and Alerts | [ Notifications and Alerts](https://github.com/promodeagro/promodeagro-ecommerce-test-cases/blob/main/Notifications%20and%20Alets.md)|Notifications and Alerts Test Case| www.google.com |
 
 
 # Admin UseCases And Test Cases
